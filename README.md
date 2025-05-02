@@ -41,3 +41,5 @@ Send "MATCH" or "NO_MATCH" based on prediction.
 Make sure to install requirements:
 
 pip install tensorflow keras opencv-python pyserial numpy
+
+
